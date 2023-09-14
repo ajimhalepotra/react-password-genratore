@@ -37,7 +37,7 @@ function App() {
           readOnly
           style={{ width: "400px" }}
         />
-        <button>Copy</button>
+        <button>Copy Password</button>
       </div>
 
       <div>
